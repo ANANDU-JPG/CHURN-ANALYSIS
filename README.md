@@ -50,11 +50,7 @@ Pivot Tables and Charts
 
 Slicers for interactivity
 
-📦 How to Use
 
-Clone this repository
-
-git clone https://github.com/yourusername/churn-analysis-dashboard.git
 
 
 Open the .pbix file in Power BI Desktop OR the .xlsx file in Excel
